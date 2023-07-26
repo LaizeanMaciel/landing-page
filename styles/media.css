@@ -3,12 +3,11 @@
 
     header{
         flex-direction: column;
-
+        
     }
 
     main {
         flex-direction: column;
-
     }
 
     h1{
@@ -34,11 +33,11 @@
     }
 
     ul {
-        text-align: center;
+        text-align:center;
     }
 
     #inscreva-se{
-        width: 70%;
+     
     }
 
 }
